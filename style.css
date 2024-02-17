@@ -1,0 +1,29 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.button{
+    color: black;
+    font-weight: bold;
+    
+}
+.nav-link{
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    background-color: black;
+    color: yellow;
+
+
+}
+
+.navbar-brand > img{
+    filter: grayscale(1) brightness(0);
+    width: 30%;
+
+}
+
+.carousel-item > img{
+    height: 50%;
+}
